@@ -50,8 +50,8 @@ $(document).ready(function () {
   
     var typed = new Typed(".typing-2", {
       strings: [
-        "Electrical Engineer",
-        "Student"
+        "a Problem Solving Prodigy",
+        "a Student"
       ],
       typeSpeed: 100,
       backSpeed: 40,
