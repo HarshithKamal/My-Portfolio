@@ -279,7 +279,7 @@ section .title::after {
   background: radial-gradient(#e1efff, white);
 }
 .about .title::after {
-  content: "—Who I Am ?—";
+  content: "—Who Am I ?—";
   text-overflow: ellipsis;
   display: -webkit-inline-box;
   -webkit-line-clamp: 3;
