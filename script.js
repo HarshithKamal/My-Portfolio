@@ -40,7 +40,7 @@ $(document).ready(function () {
   
     var typed = new Typed(".typing", {
       strings: [
-        "an Electrical Engineer",
+        "a Problem Solving Prodigy",
         "a Student"
       ],
       typeSpeed: 100,
